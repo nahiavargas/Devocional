@@ -1,4 +1,4 @@
-# Blog
+# Devocional
 
 <style> 
 body { font-family: Arial, sans-serif; background-color: #fdf6e3; color: #333; padding: 20px; text-align: center; } 
@@ -8,8 +8,6 @@ a.button { display: inline-block; margin: 10px 5px; padding: 10px 15px; backgrou
 a.button:hover { background-color: #1a2733; } 
 iframe { width: 100%; max-width: 560px; height: 315px; margin-bottom: 15px; border: none; } 
 </style>
-
-## Diario
 
 ### Reflexión del día
 
