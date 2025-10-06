@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Devocional</title>
+    <title>Devocional | Blog</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -44,9 +44,9 @@
 </head>
 <body>
 
-    <h1>Diario Devocional</h1>
+    <h1>Blog</h1>
 
-    <div class="devocional">
+    <div class="blog">
         <h2>Reflexión del día</h2>
 
         <!-- Video embebido -->
