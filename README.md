@@ -13,7 +13,7 @@ iframe { width: 100%; max-width: 560px; height: 315px; margin-bottom: 15px; bord
 
 <div class="blog">
 <h2>Diario</h2>
-<h3>Reflexión del día</h3>
+<h3>Mensaje</h3>
 
 <iframe src="https://www.youtube.com/embed/TU_VIDEO_AQUI" 
         title="Video Devocional" allowfullscreen>
@@ -21,9 +21,8 @@ iframe { width: 100%; max-width: 560px; height: 315px; margin-bottom: 15px; bord
 
 <p>Este es un resumen del video. Aquí puedes poner los puntos más importantes, una reflexión corta o versículos relacionados.</p>
 
-<h3>Síguenos en redes:</h3>
+<h3>Seguinos en redes:</h3>
 <a href="https://www.instagram.com/" class="button" target="_blank">Instagram</a>
 <a href="https://www.facebook.com/" class="button" target="_blank">Facebook</a>
 <a href="https://www.youtube.com/" class="button" target="_blank">YouTube</a>
-<a href="https://www.whatsapp.com/" class="button" target="_blank">WhatsApp</a>
 </div>
