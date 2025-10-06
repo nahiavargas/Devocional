@@ -1,4 +1,4 @@
-# Devocional
+# Blog
 
 <html lang="es">
 <head>
@@ -16,7 +16,7 @@
         h1 {
             color: #2c3e50;
         }
-        .devocional {
+        .Blog {
             border: 2px solid #2c3e50;
             padding: 20px;
             margin-bottom: 30px;
@@ -48,7 +48,7 @@
 
     <h1>Diario Devocional</h1>
 
-    <div class="devocional">
+    <div class="Blog">
         <h2>Reflexión del día</h2>
 
         <!-- Video embebido -->
