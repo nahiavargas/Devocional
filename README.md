@@ -21,7 +21,6 @@ iframe { width: 100%; max-width: 560px; height: 315px; margin-bottom: 15px; bord
 <!-- Resumen -->
 <p>Este es un resumen del video. Aquí puedes poner los puntos más importantes, una reflexión corta o versículos relacionados.</p>
 
-<!-- Enlaces a redes sociales -->
 ### Síguenos en redes:
 
 <a href="https://www.instagram.com/" class="button" target="_blank">Instagram</a>
