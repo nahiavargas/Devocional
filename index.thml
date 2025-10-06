@@ -51,7 +51,7 @@
 
         <!-- Video embebido -->
         <iframe src="https://www.youtube.com/embed/TU_VIDEO_AQUI" 
-                title="Video Devocional" allowfullscreen>
+                title="Video" allowfullscreen>
         </iframe>
 
         <!-- Resumen -->
