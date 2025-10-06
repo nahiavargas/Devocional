@@ -1,23 +1,14 @@
 # Blog
 
-Este proyecto es un sitio web simple que muestra un blog con contenido reflexivo.
+## Diario
 
-- El título visible en la página es **Blog**.
-- El nombre de la pestaña del navegador es **Devocional**.
-- Incluye un video embebido (YouTube).
-- Muestra un mensaje reflexivo debajo del video.
-- Botones sociales fijos en el costado derecho para Instagram, Facebook, YouTube y WhatsApp.
+### Reflexión del día
 
----
+Este es un resumen del video. Aquí puedes poner los puntos más importantes, una reflexión corta o versículos relacionados.
 
-### Video
-
-Puedes ver el video aquí:  
 [Ver video](https://www.youtube.com/embed/TU_VIDEO_AQUI)
 
----
-
-### Redes sociales
+### Síguenos en redes:
 
 - [Instagram](https://www.instagram.com/)
 - [Facebook](https://www.facebook.com/)
