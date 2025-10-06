@@ -9,13 +9,13 @@ a.button:hover { background-color: #1a2733; }
 iframe { width: 100%; max-width: 560px; height: 315px; margin-bottom: 15px; border: none; } 
 </style>
 
-## Diario Devocional
+## Diario
 
 ### Reflexión del día
 
 <!-- Video embebido -->
 <iframe src="https://www.youtube.com/embed/TU_VIDEO_AQUI" 
-        title="Video Devocional" allowfullscreen>
+        title="Video" allowfullscreen>
 </iframe>
 
 <!-- Resumen -->
