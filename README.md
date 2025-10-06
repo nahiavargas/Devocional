@@ -1,4 +1,4 @@
-# Devocional
+# Ministerio Puerta Del Cielo
 
 <style> 
 body { font-family: Arial, sans-serif; background-color: #fdf6e3; color: #333; padding: 20px; text-align: center; } 
