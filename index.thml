@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Espacio De Reflexión</title>
+    <title>Mensaje</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -47,7 +47,7 @@
     <h1>Blog</h1>
 
     <div class="blog">
-        <h3>Reflexión del día</h3>
+        <h3>Mensaje</h3>
 
         <iframe src="https://www.youtube.com/embed/TU_VIDEO_AQUI" 
                 title="Video Devocional" allowfullscreen>
