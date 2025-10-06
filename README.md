@@ -1,5 +1,3 @@
-Blog
-
 <style> 
 body { font-family: Arial, sans-serif; background-color: #fdf6e3; color: #333; padding: 20px; text-align: center; } 
 h1 { color: #2c3e50; } 
@@ -12,8 +10,6 @@ iframe { width: 100%; max-width: 560px; height: 315px; margin-bottom: 15px; bord
 <h1>Blog</h1>
 
 <div class="blog">
-<h2>Diario</h2>
-<h3>Mensaje</h3>
 
 <iframe src="https://www.youtube.com/embed/TU_VIDEO_AQUI" 
         title="Video Devocional" allowfullscreen>
