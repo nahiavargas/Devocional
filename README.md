@@ -1,27 +1,25 @@
-# Ministerio Puerta Del Cielo
+# Blog
 
-<style> 
-body { font-family: Arial, sans-serif; background-color: #fdf6e3; color: #333; padding: 20px; text-align: center; } 
-h1 { color: #2c3e50; } 
-.blog { border: 2px solid #2c3e50; padding: 20px; margin-bottom: 30px; background-color: #fff8dc; border-radius: 10px; } 
-a.button { display: inline-block; margin: 10px 5px; padding: 10px 15px; background-color: #2c3e50; color: #fff; text-decoration: none; border-radius: 5px; } 
-a.button:hover { background-color: #1a2733; } 
-iframe { width: 100%; max-width: 560px; height: 315px; margin-bottom: 15px; border: none; } 
-</style>
+Este proyecto es un sitio web simple que muestra un blog con contenido reflexivo.
 
-### Reflexión del día
+- El título visible en la página es **Blog**.
+- El nombre de la pestaña del navegador es **Devocional**.
+- Incluye un video embebido (YouTube).
+- Muestra un mensaje reflexivo debajo del video.
+- Botones sociales fijos en el costado derecho para Instagram, Facebook, YouTube y WhatsApp.
 
-<!-- Video embebido -->
-<iframe src="https://www.youtube.com/embed/TU_VIDEO_AQUI" 
-        title="Video" allowfullscreen>
-</iframe>
+---
 
-<!-- Resumen -->
-<p>Este es un resumen del video. Aquí puedes poner los puntos más importantes, una reflexión corta o versículos relacionados.</p>
+### Video
 
-### Síguenos en redes:
+Puedes ver el video aquí:  
+[Ver video](https://www.youtube.com/embed/TU_VIDEO_AQUI)
 
-<a href="https://www.instagram.com/" class="button" target="_blank">Instagram</a>
-<a href="https://www.facebook.com/" class="button" target="_blank">Facebook</a>
-<a href="https://www.youtube.com/" class="button" target="_blank">YouTube</a>
-<a href="https://www.whatsapp.com/" class="button" target="_blank">WhatsApp</a>
+---
+
+### Redes sociales
+
+- [Instagram](https://www.instagram.com/)
+- [Facebook](https://www.facebook.com/)
+- [YouTube](https://www.youtube.com/)
+- [WhatsApp](https://www.whatsapp.com/)
